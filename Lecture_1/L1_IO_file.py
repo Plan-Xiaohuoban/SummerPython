@@ -3,7 +3,7 @@
 
 
 
-# # file IO
+# file IO
 # filename = "summer.txt"
 # f = open(filename, "w")
 # f.write("I miss Tsinghua.")
@@ -17,11 +17,11 @@
 
 
 
-# # Word?
-# filename = "summer.docx"
-# f = open(filename, "w")
-# f.write("I miss Tsinghua.")
-# f.close()
+# Word?
+filename = "summer.docx"
+f = open(filename, "w")
+f.write("I miss Tsinghua.")
+f.close()
 
 
 
