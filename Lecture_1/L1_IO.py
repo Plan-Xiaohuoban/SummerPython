@@ -2,7 +2,7 @@
 # # 输出
 x = "Hello world!"
 print(x)
-print(x,x,x)
+print(x, x, x)
 
 
 # x=input()

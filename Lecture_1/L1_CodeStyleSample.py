@@ -48,8 +48,8 @@ class TwoLayerNet(object):
         dout,grads["W2"],grads["b2"]=affine_backward(dout,cache2)
         _,grads["W1"],grads["b1"]=affine_relu_backward(dout,cache1)
 
-        grads["W2"] += self.reg*self.params["W2"]
-        grads["W1"] += self.reg*self.params["W1"]
+        grads['W2'] += self.reg*self.params['W2']
+        grads['W1'] += self.reg*self.params['W1']
 
         return loss,grads
 
