@@ -13,4 +13,4 @@ print(x, x, x)
 
 # # 输入数字，能运行吗？
 # x = input()
-# print(x + 1)
+# print(int(x) + 1)

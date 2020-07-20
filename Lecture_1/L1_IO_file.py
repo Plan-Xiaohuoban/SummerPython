@@ -3,9 +3,8 @@
 
 
 
-# file IO
-# filename = "summer.txt"
-# f = open(filename, "w")
+# # file IO
+# f = open("summer.txt", "w")
 # f.write("I miss Tsinghua.")
 # f.close()
 
@@ -25,4 +24,4 @@ f.close()
 
 
 
-# 详见第五讲
+# # 详见第五讲
