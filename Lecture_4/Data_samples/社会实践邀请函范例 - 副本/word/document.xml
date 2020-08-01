@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid wp14">
+	<body>
+		<p w:rsidR="00B874A9" w:rsidRDefault="00B874A9">
+			<pPr>
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="24" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="0050172A" w:rsidRDefault="0050172A">
+			<pPr>
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="24" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="0050172A" w:rsidRDefault="0050172A">
+			<pPr>
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="24" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00361F46" w:rsidRDefault="00361F46" w:rsidP="008F6BC7">
+			<pPr>
+				<jc w:val="center" />
+				<rPr>
+					<rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" />
+					<sz w:val="40" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00361F46" w:rsidRDefault="00361F46" w:rsidP="008F6BC7">
+			<pPr>
+				<jc w:val="center" />
+				<rPr>
+					<rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" />
+					<sz w:val="40" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F47AEE" w:rsidRDefault="00F47AEE" w:rsidP="008F6BC7">
+			<pPr>
+				<jc w:val="center" />
+				<rPr>
+					<rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" />
+					<sz w:val="40" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="0050172A" w:rsidRPr="00ED5A02" w:rsidRDefault="008F6BC7" w:rsidP="008F6BC7">
+			<pPr>
+				<jc w:val="center" />
+				<rPr>
+					<rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" />
+					<sz w:val="40" />
+				</rPr>
+			</pPr>
+			<r w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia" />
+					<sz w:val="40" />
+				</rPr>
+				<t>
+					关于邀请清华大学师生赴XXX进行暑期社会实践的函
+				</t>
+			</r>
+		</p>
+		<p w:rsidR="0050172A" w:rsidRDefault="0050172A">
+			<pPr>
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="24" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="0050172A" w:rsidRDefault="0050172A" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="24" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="007523F0" w:rsidRPr="007523F0" w:rsidRDefault="007523F0" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="24" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="0050172A" w:rsidRPr="00ED5A02" w:rsidRDefault="0050172A" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+			<r w:rsidRPr="00F73ECC">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					共青团清华大学委员会
+				</t>
+			</r>
+			<r w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					：
+				</t>
+			</r>
+		</p>
+		<p w:rsidR="0050172A" w:rsidRPr="00ED5A02" w:rsidRDefault="0050172A" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="0050172A" w:rsidRPr="00ED5A02" w:rsidRDefault="0050172A" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+			<r w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					获悉清华大学正在组织优秀学生利用暑假赴海外国家进行社会实践的活动，作为在
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					XXX
+				</t>
+			</r>
+			<r w:rsidR="005A2AD5" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					（目的地）
+				</t>
+			</r>
+			<r w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					的
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					XXXX
+				</t>
+			</r>
+			<r w:rsidR="005A2AD5" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					（
+				</t>
+			</r>
+			<r w:rsidR="006E14FB" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					有关
+				</t>
+			</r>
+			<r w:rsidR="005A2AD5" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					邀请单位
+				</t>
+			</r>
+			<r w:rsidR="006E14FB" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					的描述）
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					，我们诚挚的邀请以清华大学
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					XXX（院系名）XXX
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					教授带队的师生代表团共计
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					XX
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					人来
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					XXX
+				</t>
+			</r>
+			<r w:rsidR="006E14FB" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					（目的地）
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					进行社会实践，
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="006E14FB">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					XXXXXXXXXXXXXX（描述实践内容、计划）
+				</t>
+			</r>
+			<r w:rsidR="008F6BC7" w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					。
+				</t>
+			</r>
+		</p>
+		<p w:rsidR="008F6BC7" w:rsidRDefault="008F6BC7" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00361F46" w:rsidRDefault="00361F46" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00361F46" w:rsidRPr="00ED5A02" w:rsidRDefault="00361F46" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<color w:val="000000" w:themeColor="text1" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="008F6BC7" w:rsidRPr="00B60474" w:rsidRDefault="008F6BC7" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+			<r w:rsidRPr="00B60474">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					XXXXXX（邀请单位）
+				</t>
+			</r>
+		</p>
+		<p w:rsidR="008F6BC7" w:rsidRDefault="008F6BC7" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+			<r w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					201
+				</t>
+			</r>
+			<r w:rsidR="00F73ECC">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					9
+				</t>
+			</r>
+			<bookmarkStart w:id="0" w:name="_GoBack" />
+			<bookmarkEnd w:id="0" />
+			<r w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					年
+				</t>
+			</r>
+			<r w:rsidRPr="00B60474">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					X
+				</t>
+			</r>
+			<r w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					月
+				</t>
+			</r>
+			<r w:rsidRPr="00B60474">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					X
+				</t>
+			</r>
+			<r w:rsidRPr="00ED5A02">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					日
+				</t>
+			</r>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="008F6BC7">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<ind w:firstLineChars="200" w:firstLine="560" />
+				<jc w:val="right" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00D35ABB" w:rsidRDefault="00D35ABB" w:rsidP="00F441A2">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<jc w:val="left" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<p w:rsidR="00F441A2" w:rsidRDefault="00F441A2" w:rsidP="00F441A2">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<jc w:val="left" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+			<r>
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<sz w:val="28" />
+				</rPr>
+				<lastRenderedPageBreak />
+				<t>
+					附：拟邀请
+				</t>
+			</r>
+			<r w:rsidRPr="00F441A2">
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<color w:val="FF0000" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					XX
+				</t>
+			</r>
+			<r>
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+					<sz w:val="28" />
+				</rPr>
+				<t>
+					人名单
+				</t>
+			</r>
+		</p>
+		<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="00F441A2">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<jc w:val="left" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<tbl>
+			<tblPr>
+				<tblStyle w:val="a3" />
+				<tblW w:w="5000" w:type="pct" />
+				<jc w:val="center" />
+				<tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
+			</tblPr>
+			<tblGrid>
+				<gridCol w:w="1271" />
+				<gridCol w:w="851" />
+				<gridCol w:w="1983" />
+				<gridCol w:w="2978" />
+				<gridCol w:w="1207" />
+			</tblGrid>
+			<tr w:rsidR="008C39A0" w:rsidTr="008C39A0">
+				<trPr>
+					<trHeight w:val="374" />
+					<jc w:val="center" />
+				</trPr>
+				<tc>
+					<tcPr>
+						<tcW w:w="767" w:type="pct" />
+						<vAlign w:val="bottom" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								姓名
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="513" w:type="pct" />
+						<vAlign w:val="bottom" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								性别
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1196" w:type="pct" />
+						<vAlign w:val="bottom" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								出生年月
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1796" w:type="pct" />
+						<vAlign w:val="bottom" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								单位
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="728" w:type="pct" />
+						<vAlign w:val="bottom" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								身份
+							</t>
+						</r>
+					</p>
+				</tc>
+			</tr>
+			<tr w:rsidR="008C39A0" w:rsidTr="008C39A0">
+				<trPr>
+					<trHeight w:val="374" />
+					<jc w:val="center" />
+				</trPr>
+				<tc>
+					<tcPr>
+						<tcW w:w="767" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								张 一
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="513" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								男
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1196" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r w:rsidRPr="008C39A0">
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<color w:val="FF0000" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								XXXX
+							</t>
+						</r>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								年
+							</t>
+						</r>
+						<r w:rsidRPr="008C39A0">
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<color w:val="FF0000" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								X
+							</t>
+						</r>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								月
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1796" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								清华大学
+							</t>
+						</r>
+						<r w:rsidRPr="008C39A0">
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<color w:val="FF0000" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								XXXX（院系名）
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="728" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r w:rsidRPr="008C39A0">
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<color w:val="FF0000" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								（教授、副教授等）
+							</t>
+						</r>
+					</p>
+				</tc>
+			</tr>
+			<tr w:rsidR="008C39A0" w:rsidTr="008C39A0">
+				<trPr>
+					<trHeight w:val="374" />
+					<jc w:val="center" />
+				</trPr>
+				<tc>
+					<tcPr>
+						<tcW w:w="767" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r>
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								李二三
+							</t>
+						</r>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="513" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1196" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1796" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="728" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRPr="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<color w:val="FF0000" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+						<r w:rsidRPr="008C39A0">
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia" />
+								<color w:val="FF0000" />
+								<sz w:val="28" />
+							</rPr>
+							<t>
+								（本科生、硕士生、博士生）
+							</t>
+						</r>
+					</p>
+				</tc>
+			</tr>
+			<tr w:rsidR="008C39A0" w:rsidTr="008C39A0">
+				<trPr>
+					<trHeight w:val="374" />
+					<jc w:val="center" />
+				</trPr>
+				<tc>
+					<tcPr>
+						<tcW w:w="767" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="513" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1196" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1796" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="728" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+			</tr>
+			<tr w:rsidR="008C39A0" w:rsidTr="008C39A0">
+				<trPr>
+					<trHeight w:val="374" />
+					<jc w:val="center" />
+				</trPr>
+				<tc>
+					<tcPr>
+						<tcW w:w="767" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="513" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1196" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1796" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="728" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+			</tr>
+			<tr w:rsidR="008C39A0" w:rsidTr="008C39A0">
+				<trPr>
+					<trHeight w:val="374" />
+					<jc w:val="center" />
+				</trPr>
+				<tc>
+					<tcPr>
+						<tcW w:w="767" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="513" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1196" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1796" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="728" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+			</tr>
+			<tr w:rsidR="008C39A0" w:rsidTr="008C39A0">
+				<trPr>
+					<trHeight w:val="374" />
+					<jc w:val="center" />
+				</trPr>
+				<tc>
+					<tcPr>
+						<tcW w:w="767" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="513" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1196" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1796" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="728" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+			</tr>
+			<tr w:rsidR="008C39A0" w:rsidTr="008C39A0">
+				<trPr>
+					<trHeight w:val="374" />
+					<jc w:val="center" />
+				</trPr>
+				<tc>
+					<tcPr>
+						<tcW w:w="767" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="513" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1196" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="1796" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+				<tc>
+					<tcPr>
+						<tcW w:w="728" w:type="pct" />
+						<vAlign w:val="center" />
+					</tcPr>
+					<p w:rsidR="008C39A0" w:rsidRDefault="008C39A0" w:rsidP="008C39A0">
+						<pPr>
+							<spacing w:line="400" w:lineRule="exact" />
+							<jc w:val="center" />
+							<rPr>
+								<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+								<sz w:val="28" />
+							</rPr>
+						</pPr>
+					</p>
+				</tc>
+			</tr>
+		</tbl>
+		<p w:rsidR="008C39A0" w:rsidRPr="00ED5A02" w:rsidRDefault="008C39A0" w:rsidP="00F441A2">
+			<pPr>
+				<spacing w:line="400" w:lineRule="exact" />
+				<jc w:val="left" />
+				<rPr>
+					<rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" />
+					<sz w:val="28" />
+				</rPr>
+			</pPr>
+		</p>
+		<sectPr w:rsidR="008C39A0" w:rsidRPr="00ED5A02" w:rsidSect="00B475D6">
+			<pgSz w:w="11900" w:h="16840" />
+			<pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0" />
+			<cols w:space="425" />
+			<docGrid w:type="lines" w:linePitch="312" />
+		</sectPr>
+	</body>
+</document>
